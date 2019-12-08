@@ -21,7 +21,9 @@
 [A Comprehensive Survey on Safe Reinforcement Learning](http://www.jmlr.org/papers/volume16/garcia15a/garcia15a.pdf)
 
 ## Benchmarks
-[Benchmarking Safe Exploration in Deep Reinforcement Learning](https://d4mucfpksywv.cloudfront.net/safexp-short.pdf)
+- [Benchmarking Safe Exploration in Deep Reinforcement Learning](https://d4mucfpksywv.cloudfront.net/safexp-short.pdf)
+- [The city learn challenge](https://sites.google.com/view/citylearnchallenge)
+  - [Code](https://github.com/intelligent-environments-lab/CityLearn)
 
 ## Thesis
 [SAFE REINFORCEMENT LEARNING](https://people.cs.umass.edu/~pthomas/papers/Thomas2015c.pdf)
