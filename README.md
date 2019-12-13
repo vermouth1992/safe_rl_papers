@@ -3,7 +3,7 @@
 ## Algorithms
 ### Safe Exploration
 - [Safe Exploration for Interactive Machine Learning](https://arxiv.org/abs/1910.13726)
-- [Safely Probabilistically Complete Real-Time Planning and Exploration in Unknown Environments)(https://arxiv.org/pdf/1811.07834.pdf)
+- [Safely Probabilistically Complete Real-Time Planning and Exploration in Unknown Environments](https://arxiv.org/pdf/1811.07834.pdf)
 
 ### Safe Planning
 - [Safe Planning via Model Predictive Shielding](https://arxiv.org/pdf/1905.10691.pdf)
