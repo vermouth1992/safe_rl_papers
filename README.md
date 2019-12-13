@@ -3,6 +3,10 @@
 ## Algorithms
 ### Safe Exploration
 - [Safe Exploration for Interactive Machine Learning](https://arxiv.org/abs/1910.13726)
+- [Safely Probabilistically Complete Real-Time Planning and Exploration in Unknown Environments)(https://arxiv.org/pdf/1811.07834.pdf)
+
+### Safe Planning
+- [Safe Planning via Model Predictive Shielding](https://arxiv.org/pdf/1905.10691.pdf)
 
 ### Policy Learning
 - [A Lyapunov-based Approach to Safe Reinforcement Learning](https://papers.nips.cc/paper/8032-a-lyapunov-based-approach-to-safe-reinforcement-learning.pdf)
@@ -11,6 +15,9 @@
   - [Code](https://github.com/rcheng805/RL-CBF)
 - [Risk-Constrained Reinforcement Learning with Percentile Risk Criteria](https://arxiv.org/pdf/1512.01629.pdf)
 - [Convergent Policy Optimization for Safe Reinforcement Learning](https://arxiv.org/abs/1910.12156)
+- [Lyapunov-based Safe Policy Optimization for Continuous Control](https://arxiv.org/pdf/1901.10031.pdf)
+- [Neural Lyapunov Control](http://papers.nips.cc/paper/8587-neural-lyapunov-control.pdf)
+- [CAQL: CONTINUOUS ACTION Q-LEARNING](https://arxiv.org/pdf/1909.12397.pdf)
 
 ### Safe Reinforcement Learning with Stability Guarantees
 - [Safe Model-based Reinforcement Learning with Stability Guarantees](https://papers.nips.cc/paper/6692-safe-model-based-reinforcement-learning-with-stability-guarantees.pdf)
