@@ -9,7 +9,7 @@
 - [Safe Planning via Model Predictive Shielding](https://arxiv.org/pdf/1905.10691.pdf)
 
 ### Policy Learning
-- [A Lyapunov-based Approach to Safe Reinforcement Learning](https://papers.nips.cc/paper/8032-a-lyapunov-based-approach-to-safe-reinforcement-learning.pdf)
+- [A Lyapunov-based Approach to Safe Reinforcement Learning](https://arxiv.org/pdf/1805.07708.pdf)
 - [Constrained Policy Optimization](https://arxiv.org/abs/1705.10528)
 - [End-to-End Safe Reinforcement Learning through Barrier Functions for Safety-Critical Continuous Control Tasks](https://rcheng805.github.io/files/aaai2019.pdf)
   - [Code](https://github.com/rcheng805/RL-CBF)
