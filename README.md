@@ -2,6 +2,7 @@
 
 ## Algorithms
 ### Safe Exploration
+- [Safe Exploration in Continuous Action Spaces](https://arxiv.org/pdf/1801.08757.pdf)
 - [Safe Exploration for Interactive Machine Learning](https://arxiv.org/abs/1910.13726)
 - [Safely Probabilistically Complete Real-Time Planning and Exploration in Unknown Environments](https://arxiv.org/pdf/1811.07834.pdf)
 
